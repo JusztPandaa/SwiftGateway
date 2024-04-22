@@ -1,4 +1,4 @@
-![SwiftGateway Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.logo.wine%2Flogo%2FGateway%252C_Inc.&psig=AOvVaw2Nel4r_gfxDjyHta5yydEs&ust=1713890054958000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCnjpOg1oUDFQAAAAAdAAAAABAE)
+![SwiftGateway Logo](https://www.logo.wine/a/logo/Gateway%2C_Inc./Gateway%2C_Inc.-Logo.wine.svg)
 
 # SwiftGateway
 
